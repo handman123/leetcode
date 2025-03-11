@@ -1,7 +1,7 @@
 package org.learning.code.num101_500;
 
 
-import javax.swing.tree.TreeNode;
+import org.learning.node.TreeNode;
 
 public class Code101 {
 
