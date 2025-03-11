@@ -1,4 +1,4 @@
-package node;
+package org.review.node;
 
 public class TreeNode {
     public int val;

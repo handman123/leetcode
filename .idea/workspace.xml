@@ -1,32 +1,113 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3fbcf4cb-5b08-417c-8b81-06fa9895c421" name="更改" comment="" />
+    <list default="true" id="3fbcf4cb-5b08-417c-8b81-06fa9895c421" name="更改" comment="目录调整">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_25_03/Code_25_03_04_1278.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/review/_25_03/Code_25_03_04_1278.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_25_03/Code_25_03_04_132.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/review/_25_03/Code_25_03_04_132.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_25_03/Code_25_03_04_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/review/_25_03/Code_25_03_04_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_25_03/Code_25_03_05_19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/review/_25_03/Code_25_03_05_19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_25_03/Code_25_03_05_209.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/review/_25_03/Code_25_03_05_209.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_25_03/Code_25_03_08_15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/review/_25_03/Code_25_03_08_15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_25_03/Code_25_03_10_102.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/review/_25_03/Code_25_03_10_102.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_25_03/Code_25_03_10_1278.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/review/_25_03/Code_25_03_10_1278.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_25_03/Code_25_03_10_132.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/review/_25_03/Code_25_03_10_132.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_25_03/Code_25_03_10_142.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/review/_25_03/Code_25_03_10_142.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_25_03/Code_25_03_10_15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/review/_25_03/Code_25_03_10_15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_25_03/Code_25_03_10_1745.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/review/_25_03/Code_25_03_10_1745.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_25_03/Code_25_03_10_209.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/review/_25_03/Code_25_03_10_209.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_25_03/Code_25_03_10_347.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/review/_25_03/Code_25_03_10_347.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_25_03/Code_25_03_11_151.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/review/_25_03/Code_25_03_11_151.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_25_03/Code_25_03_11_18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/review/_25_03/Code_25_03_11_18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_25_03/Code_25_03_11_209.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/review/_25_03/Code_25_03_11_209.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_25_03/Code_25_03_11_59.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/review/_25_03/Code_25_03_11_59.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_25_03/Code_25_03_11_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/review/_25_03/Code_25_03_11_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_25_03/Code_25_3_8_18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/review/_25_03/Code_25_3_8_18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_25_03/Code_25_3_8_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/review/_25_03/Code_25_3_8_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/review/node/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/review/node/TreeNode.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/handman123/leetcode.git",
+    "accountId": "01111393-bb45-4512-94d6-c7d7fe828c54"
+  }
+}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2u9xT5xMENOTXeS0ejgvnID5dwO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;问题&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "review",
+    "kotlin-language-version-configured": "true",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "F:/许琦/java八股/算法/code/leetcode/src/main/java/org/review/Main.java",
+    "project.structure.last.edited": "工件",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\许琦\java八股\算法\code\leetcode\src\main\java\org\review" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="复习" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -49,5 +130,31 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="目录调整" />
+    <option name="LAST_COMMIT_MESSAGE" value="目录调整" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/review/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

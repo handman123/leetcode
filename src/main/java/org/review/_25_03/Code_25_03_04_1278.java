@@ -1,4 +1,4 @@
-package _25_03;
+package org.review._25_03;
 
 /**
  *  dp[i][j] 表示前i个字符，分割成j份，需要修改字符数量
