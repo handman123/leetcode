@@ -1,4 +1,4 @@
-package org.learning.code.num101_500;
+package org.learning.code.num101_200;
 
 public class Code200 {
     public int numIslands(char[][] grid) {

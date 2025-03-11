@@ -1,0 +1,133 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"8b5a3af1-2e83-4f2e-b78a-7b55edc8d095\" name=\"更改\" comment=\"目录调整\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"review\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n    &quot;state&quot;: &quot;OPEN&quot;,\r\n    &quot;assignee&quot;: &quot;handman123&quot;\r\n  }\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\">{\r\n  &quot;selectedUrlAndAccountId&quot;: {\r\n    &quot;url&quot;: &quot;https://github.com/handman123/leetcode.git&quot;,\r\n    &quot;accountId&quot;: &quot;01111393-bb45-4512-94d6-c7d7fe828c54&quot;\r\n  }\r\n}</component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 2\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2tpYatrF9ivgtwHIZn3DXgegogU\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <OptionsSetting value=\"false\" id=\"Update\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"RunOnceActivity.git.unshallow\": \"true\",\r\n    \"git-widget-placeholder\": \"learning\",\r\n    \"kotlin-language-version-configured\": \"true\",\r\n    \"last_opened_file_path\": \"F:/许琦/java八股/算法/code/复习\",\r\n    \"node.js.detected.package.eslint\": \"true\",\r\n    \"node.js.detected.package.tslint\": \"true\",\r\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\r\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\r\n    \"nodejs_package_manager_path\": \"npm\",\r\n    \"onboarding.tips.debug.path\": \"F:/许琦/java八股/算法/code/leetcode/src/main/java/org/netty/Main.java\",\r\n    \"project.structure.last.edited\": \"模块\",\r\n    \"project.structure.proportion\": \"0.15\",\r\n    \"project.structure.side.proportion\": \"0.0\",\r\n    \"vue.rearranger.settings.migration\": \"true\",\r\n    \"应用程序.Main.executor\": \"Run\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"F:\\许琦\\java八股\\算法\\code\\leetcode\\src\\main\\java\\org\\netty\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"RunManager\">\r\n    <configuration name=\"Main\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"Main\" />\r\n      <module name=\"复习\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration default=\"true\" type=\"JetRunConfigurationType\">\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration default=\"true\" type=\"KotlinStandaloneScriptRunConfigurationType\">\r\n      <option name=\"filePath\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"应用程序.Main\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.24978.46\" />\r\n        <option value=\"bundled-js-predefined-d6986cc7102b-76f8388c3a79-JavaScript-IU-243.24978.46\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"应用程序级\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"默认任务\">\r\n      <changelist id=\"8b5a3af1-2e83-4f2e-b78a-7b55edc8d095\" name=\"更改\" comment=\"\" />\r\n      <created>1741050549920</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1741050549920</updated>\r\n      <workItem from=\"1741050551303\" duration=\"3371000\" />\r\n      <workItem from=\"1741147397023\" duration=\"5388000\" />\r\n      <workItem from=\"1741413139904\" duration=\"3658000\" />\r\n      <workItem from=\"1741602187607\" duration=\"6503000\" />\r\n      <workItem from=\"1741667095979\" duration=\"4327000\" />\r\n      <workItem from=\"1741672906938\" duration=\"781000\" />\r\n      <workItem from=\"1741673723164\" duration=\"111000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"初次提交\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1741672935928</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1741672935928</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"初次提交\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1741673044264</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1741673044264</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"初次提交\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1741673346718</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1741673346718</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"目录调整\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1741673442157</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1741673442157</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"目录调整\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1741673786330</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1741673786330</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"目录调整\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1741675935167</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1741675935167</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"7\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"初次提交\" />\r\n    <MESSAGE value=\"目录调整\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"目录调整\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision c72f9064ff0e7d07b9f34397265972ee4c97a7c4)
++++ b/.idea/workspace.xml	(date 1741677872560)
+@@ -4,7 +4,9 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="8b5a3af1-2e83-4f2e-b78a-7b55edc8d095" name="更改" comment="目录调整" />
++    <list default="true" id="8b5a3af1-2e83-4f2e-b78a-7b55edc8d095" name="更改" comment="目录调整">
++      <change afterPath="$PROJECT_DIR$/src/main/java/org/learning/code/num1_100/Code98.java" afterDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -48,35 +50,41 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "RunOnceActivity.git.unshallow": "true",
+-    "git-widget-placeholder": "learning",
+-    "kotlin-language-version-configured": "true",
+-    "last_opened_file_path": "F:/许琦/java八股/算法/code/复习",
+-    "node.js.detected.package.eslint": "true",
+-    "node.js.detected.package.tslint": "true",
+-    "node.js.selected.package.eslint": "(autodetect)",
+-    "node.js.selected.package.tslint": "(autodetect)",
+-    "nodejs_package_manager_path": "npm",
+-    "onboarding.tips.debug.path": "F:/许琦/java八股/算法/code/leetcode/src/main/java/org/netty/Main.java",
+-    "project.structure.last.edited": "模块",
+-    "project.structure.proportion": "0.15",
+-    "project.structure.side.proportion": "0.0",
+-    "vue.rearranger.settings.migration": "true",
+-    "应用程序.Main.executor": "Run"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
++    &quot;git-widget-placeholder&quot;: &quot;learning&quot;,
++    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
++    &quot;last_opened_file_path&quot;: &quot;F:/许琦/java八股/算法/code/复习&quot;,
++    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
++    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
++    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
++    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
++    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
++    &quot;onboarding.tips.debug.path&quot;: &quot;F:/许琦/java八股/算法/code/leetcode/src/main/java/org/netty/Main.java&quot;,
++    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
++    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
++    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
++    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
++    &quot;应用程序.Main.executor&quot;: &quot;Run&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="RecentsManager">
+     <key name="MoveFile.RECENT_KEYS">
+       <recent name="F:\许琦\java八股\算法\code\leetcode\src\main\java\org\netty" />
+     </key>
+   </component>
+   <component name="RunManager">
+-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="Main" />
+-      <module name="复习" />
++    <configuration name="org.learning.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="org.learning.Main" />
++      <module name="leetcode" />
++      <extension name="coverage">
++        <pattern>
++          <option name="PATTERN" value="org.learning.*" />
++          <option name="ENABLED" value="true" />
++        </pattern>
++      </extension>
+       <method v="2">
+         <option name="Make" enabled="true" />
+       </method>
+@@ -92,7 +100,7 @@
+     </configuration>
+     <recent_temporary>
+       <list>
+-        <item itemvalue="应用程序.Main" />
++        <item itemvalue="应用程序.org.learning.Main" />
+       </list>
+     </recent_temporary>
+   </component>
+Index: src/main/java/org/learning/code/num1_100/Code98.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/org/learning/code/num1_100/Code98.java b/src/main/java/org/learning/code/num1_100/Code98.java
+new file mode 100644
+--- /dev/null	(date 1741677702955)
++++ b/src/main/java/org/learning/code/num1_100/Code98.java	(date 1741677702955)
+@@ -0,0 +1,29 @@
++package org.learning.code.num1_100;
++
++import org.learning.node.TreeNode;
++
++public class Code98 {
++    /**
++     * 二叉搜索树：
++     *  左孩子小于父节点，右孩子大于父节点
++     *  左子树最大值小于父节点
++     *  右子树最小值大于父节点
++     */
++    public boolean isValidBST(TreeNode root) {
++        return dfs(root, null);
++    }
++
++    // 中序遍历，即可得到有序数组
++    private boolean dfs(TreeNode root, TreeNode pre){
++        if (root == null)
++            return true;
++        boolean left = dfs(root.left, pre);
++
++        if (pre != null && pre.val >= root.val) return false;
++        pre = root;
++
++        boolean right = dfs(root.right, pre);
++
++        return left && right;
++    }
++}

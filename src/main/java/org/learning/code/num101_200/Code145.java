@@ -1,4 +1,4 @@
-package org.learning.code.num101_500;
+package org.learning.code.num101_200;
 
 import org.learning.node.TreeNode;
 
@@ -6,10 +6,13 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Stack;
 
-public class Code144 {
+public class Code145 {
 
-
-    public List<Integer> preorderTraversal(TreeNode root) {
+    // 迭代
+    // 前序：中 -> 左 -> 右
+    // 后序：左 -> 右 -> 中
+    // 中 -> 左 -> 右  --->   中 -> 右 -> 左  --->     左 -> 右 -> 中
+    public List<Integer> postorderTraversal(TreeNode root) {
         List<Integer> res = new ArrayList<>();
         // 边界条件
         if (root == null)
@@ -21,14 +24,24 @@ public class Code144 {
         while (!stack.isEmpty()){
             TreeNode root_ = stack.pop();
             res.add(root_.val);
-            if (root_.right != null) stack.push(root_.right);
             if (root_.left != null) stack.push(root_.left);
+            if (root_.right != null) stack.push(root_.right);
+        }
+        // 数组反转
+        int i = 0, j = res.size() - 1;
+        while (i < j) {
+            int temp = res.get(i);
+            res.set(i, res.get(j));
+            res.set(j, temp);
+            i++;
+            j--;
         }
         return res;
     }
 
+
 //    // 递归
-//    public List<Integer> preorderTraversal(TreeNode root) {
+//    public List<Integer> postorderTraversal(TreeNode root) {
 //        List<Integer> res = new ArrayList<>();
 //        dfs(root, res);
 //        return res;
@@ -37,8 +50,8 @@ public class Code144 {
 //    private void dfs(TreeNode root, List<Integer> list){
 //        if (root == null)
 //            return;
-//        list.add(root.val);
 //        dfs(root.left, list);
 //        dfs(root.right, list);
+//        list.add(root.val);
 //    }
 }

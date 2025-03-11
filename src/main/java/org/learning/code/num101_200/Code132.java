@@ -1,4 +1,4 @@
-package org.learning.code.num101_500;
+package org.learning.code.num101_200;
 
 public class Code132 {
     // 不能用动态规划＋回溯法解决
