@@ -1,6 +1,7 @@
 package org.learning.code.num101_500;// 问题：不要用静态变量，当多次调用时，可能会产生结果冲突
 
-import node.TreeNode;
+
+import org.learning.node.TreeNode;
 
 public class Code104 {
 

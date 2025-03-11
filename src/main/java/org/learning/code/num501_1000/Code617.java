@@ -1,6 +1,6 @@
 package org.learning.code.num501_1000;
 
-import node.TreeNode;
+import org.learning.node.TreeNode;
 
 public class Code617 {
 

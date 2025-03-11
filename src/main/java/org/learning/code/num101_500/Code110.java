@@ -1,7 +1,7 @@
 package org.learning.code.num101_500;
 
-import node.TreeNode;
 
+import org.learning.node.TreeNode;
 public class Code110 {
 
     // 递归 优化

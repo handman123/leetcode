@@ -1,6 +1,6 @@
 package org.learning.code.num101_500;
 
-import node.TreeNode;
+import org.learning.node.TreeNode;
 
 public class Code112 {
     public boolean hasPathSum(TreeNode root, int targetSum) {

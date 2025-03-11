@@ -1,6 +1,6 @@
 package org.learning.code.num101_500;
 
-import node.TreeNode;
+import org.learning.node.TreeNode;
 
 import java.util.ArrayList;
 import java.util.List;
