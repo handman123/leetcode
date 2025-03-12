@@ -1,4 +1,4 @@
-package org.review._25_03;
+package org.review._25_03._01_10;
 
 public class Code_10_1745 {
     public boolean checkPartitioning(String s) {

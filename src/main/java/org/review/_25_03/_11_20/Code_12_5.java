@@ -1,20 +1,18 @@
-package org.review._25_03;
+package org.review._25_03._11_20;
 
-public class Code_04_5 {
+public class Code_12_5 {
     /**
-     * dp[i][j] [i..j]之间回文子串长度
-     * 在生成的过程中记录最长字串，然后输出
+     * dp[i][j] 表示[i...j]回文长度
+     * dp[i][j] = dp[i + 1][j - 1] + 2;
+     * @param s 目标字符串
+     * @return  回文字符串
      */
-
     public String longestPalindrome(String s) {
-        // 边界处理
         int len = s.length();
-        if(len <= 1)
-            return s;
         // dp数组
         int[][] dp = new int[len][len];
-        // 生成
-        int MaxNums = 0;
+        // 数组填充
+        int maxLen = Integer.MIN_VALUE;
         int x = 0, y = 0;
         for (int i = len - 1; i >= 0; i--) {
             for (int j = i; j < len; j++) {
@@ -23,8 +21,8 @@ public class Code_04_5 {
                     dp[i][j] = 2;
                 else if (s.charAt(i) == s.charAt(j) && dp[i + 1][j - 1] != 0)
                     dp[i][j] = dp[i + 1][j - 1] + 2;
-                if (MaxNums < dp[i][j]){
-                    MaxNums = dp[i][j];
+                if (maxLen < dp[i][j]){
+                    maxLen = dp[i][j];
                     x = i; y = j;
                 }
             }
