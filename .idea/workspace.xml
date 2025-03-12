@@ -5,30 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b5a3af1-2e83-4f2e-b78a-7b55edc8d095" name="更改" comment="目录调整">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/learning/code/num201_500/Code236.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/learning/code/num501_1000/Code501.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/learning/code/num501_1000/Code530.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/learning/code/num101_200/Code122.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/learning/code/num1_100/Code53.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/learning/code/num201_500/Code376.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/learning/code/num201_500/Code455.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/learning/code/num101_500/Code101.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/learning/code/num101_200/Code101.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/learning/code/num101_500/Code102.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/learning/code/num101_200/Code102.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/learning/code/num101_500/Code104.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/learning/code/num101_200/Code104.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/learning/code/num101_500/Code106.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/learning/code/num101_200/Code106.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/learning/code/num101_500/Code110.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/learning/code/num101_200/Code110.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/learning/code/num101_500/Code111.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/learning/code/num101_200/Code111.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/learning/code/num101_500/Code112.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/learning/code/num101_200/Code112.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/learning/code/num101_500/Code113.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/learning/code/num101_200/Code113.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/learning/code/num101_500/Code132.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/learning/code/num101_200/Code132.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/learning/code/num101_500/Code144.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/learning/code/num101_200/Code144.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/learning/code/num101_500/Code145.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/learning/code/num101_200/Code145.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/learning/code/num101_500/Code150.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/learning/code/num101_200/Code150.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/learning/code/num101_500/Code151.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/learning/code/num101_200/Code151.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/learning/code/num101_500/Code200.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/learning/code/num101_200/Code200.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/learning/code/num101_500/Code226.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/learning/code/num201_500/Code226.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/learning/code/num101_500/Code232.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/learning/code/num201_500/Code232.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/learning/code/num101_500/Code257.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/learning/code/num201_500/Code257.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/learning/code/num101_500/Code347.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/learning/code/num201_500/Code347.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/learning/code/num101_500/Code349.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/learning/code/num201_500/Code349.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/learning/code/num101_500/Code454.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/learning/code/num201_500/Code454.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,32 +49,33 @@
   <component name="ProjectId" id="2tpYatrF9ivgtwHIZn3DXgegogU" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="false" id="Update" />
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "learning",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "F:/许琦/java八股/算法/code/复习",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "F:/许琦/java八股/算法/code/leetcode/src/main/java/org/netty/Main.java",
-    "project.structure.last.edited": "模块",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0",
-    "vue.rearranger.settings.migration": "true",
-    "应用程序.Main.executor": "Run",
-    "应用程序.org.learning.Main.executor": "Run"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;learning&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/许琦/java八股/算法/code/复习&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;F:/许琦/java八股/算法/code/leetcode/src/main/java/org/netty/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;应用程序.Main.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.org.learning.Main.executor&quot;: &quot;Run&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\许琦\java八股\算法\code\leetcode\src\main\java\org\netty" />
@@ -228,6 +210,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="初次提交" />
     <MESSAGE value="目录调整" />
-    <option name="LAST_COMMIT_MESSAGE" value="目录调整" />
+    <MESSAGE value="文件名格式调整，新增复习" />
+    <option name="LAST_COMMIT_MESSAGE" value="文件名格式调整，新增复习" />
   </component>
 </project>
