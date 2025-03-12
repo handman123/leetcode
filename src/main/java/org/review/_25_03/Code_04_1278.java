@@ -6,7 +6,7 @@ package org.review._25_03;
  *  0 < io < i < k - 1 将字符串分割 [0...io] [io + 1...i]
  */
 
-public class Code_25_03_04_1278 {
+public class Code_04_1278 {
 
     public int palindromePartition(String s, int k) {
         int len = s.length();

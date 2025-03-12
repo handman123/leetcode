@@ -2,7 +2,7 @@ package org.review._25_03;
 
 import org.review.node.ListNode;
 
-public class Code_25_03_05_19 {
+public class Code_05_19 {
 
     public ListNode removeNthFromEnd(ListNode head, int n) {
         // 添加虚拟头节点

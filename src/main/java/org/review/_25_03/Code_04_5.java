@@ -1,6 +1,6 @@
 package org.review._25_03;
 
-public class Code_25_03_04_5 {
+public class Code_04_5 {
     /**
      * dp[i][j] [i..j]之间回文子串长度
      * 在生成的过程中记录最长字串，然后输出

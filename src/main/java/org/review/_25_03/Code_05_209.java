@@ -2,7 +2,7 @@ package org.review._25_03;
 
 import java.util.Arrays;
 
-public class Code_25_03_05_209 {
+public class Code_05_209 {
 
     // 未能解决 问题
     private static int minNums;

@@ -1,6 +1,6 @@
 package org.review._25_03;
 
-public class Code_25_03_04_132 {
+public class Code_04_132 {
 
     /**
      * dp[i] 表示 [0, i]之间最少分割次数

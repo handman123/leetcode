@@ -1,6 +1,6 @@
 package org.review._25_03;
 
-public class Code_25_03_11_151 {
+public class Code_11_151 {
 
     public String reverseWords(String s) {
         int len = s.length();

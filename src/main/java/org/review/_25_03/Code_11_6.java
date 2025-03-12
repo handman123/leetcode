@@ -3,7 +3,7 @@ package org.review._25_03;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Code_25_03_11_6 {
+public class Code_11_6 {
 
     public String convert(String s, int numRows) {
 

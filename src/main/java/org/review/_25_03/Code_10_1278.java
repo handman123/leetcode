@@ -1,6 +1,6 @@
 package org.review._25_03;
 
-public class Code_25_03_10_1278 {
+public class Code_10_1278 {
 
     // dp[i][j] [1...i]之间分割j次需要修改多少次
     // dp[i][j] = min(dp[i][j], dp[io][j - 1] + num(io + 1, i)) io in [j - 1...i)

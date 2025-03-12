@@ -1,6 +1,6 @@
 package org.review._25_03;
 
-public class Code_25_03_11_59 {
+public class Code_11_59 {
     public int[][] generateMatrix(int n) {
         // 返回数据
         int[][] res = new int[n][n];

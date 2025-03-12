@@ -2,7 +2,7 @@ package org.review._25_03;
 
 import org.review.node.ListNode;
 
-public class Code_25_03_10_142 {
+public class Code_10_142 {
     public ListNode detectCycle(ListNode head) {
         if (head == null)
             return null;

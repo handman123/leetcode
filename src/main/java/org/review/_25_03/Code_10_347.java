@@ -2,7 +2,7 @@ package org.review._25_03;
 
 import java.util.*;
 
-public class Code_25_03_10_347 {
+public class Code_10_347 {
     public int[] topKFrequent(int[] nums, int k) {
         int len = nums.length;
         // 统计各个元素出现频率

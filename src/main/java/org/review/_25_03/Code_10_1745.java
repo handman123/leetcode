@@ -1,6 +1,6 @@
 package org.review._25_03;
 
-public class Code_25_03_10_1745 {
+public class Code_10_1745 {
     public boolean checkPartitioning(String s) {
         int len = s.length();
 
