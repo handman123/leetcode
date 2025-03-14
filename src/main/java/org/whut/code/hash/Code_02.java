@@ -1,6 +1,6 @@
 package org.whut.code.hash;
 
-import java.util.List;
+import java.util.*;
 
 /**
  * <p>
@@ -15,7 +15,25 @@ import java.util.List;
  */
 public class Code_02 {
 
-//    public List<List<String>> groupAnagrams(String[] strs) {
-//
-//    }
+    public List<List<String>> groupAnagrams(String[] strs) {
+
+        List<List<String>> res = new ArrayList<>();
+        Map<String, Integer> map = new HashMap<>();
+        int nums = 0;
+        for (String str : strs){
+            char[] chars = str.toCharArray();
+            Arrays.sort(chars);
+            String temp = new String(chars);
+            // 有字母异位词
+            if (map.containsKey(temp))
+                res.get(map.get(temp)).add(str);
+            else {
+                map.put(temp, nums++);
+                List<String> list = new ArrayList<>();
+                list.add(str);
+                res.add(list);
+            }
+        }
+        return res;
+    }
 }
