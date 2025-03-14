@@ -1,4 +1,4 @@
-package org.learning.node;
+package org.whut.node;
 
 public class TreeNode {
     
