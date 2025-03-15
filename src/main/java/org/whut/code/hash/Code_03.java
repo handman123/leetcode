@@ -1,5 +1,8 @@
 package org.whut.code.hash;
 
+import java.util.Set;
+import java.util.TreeSet;
+
 /**
  * <p>
  *     128. 最长连续序列
@@ -19,6 +22,28 @@ public class Code_03 {
      * @return
      */
     public int longestConsecutive(int[] nums) {
+
+        // set去重
+        Set<Integer> set = new TreeSet<>();
+        for (int num : nums) {
+            set.add(num);
+        }
+        int longestStreak = 0;
+        // 遍历
+        for(int i : set){
+            if (!set.contains(i - 1)){
+                int currentNum = i;
+                int currentStreak = 1;
+
+                while (set.contains(currentNum + 1)){
+                    currentNum += 1;
+                    currentStreak += 1;
+                }
+
+                longestStreak = Math.max(longestStreak, currentStreak);
+            }
+        }
+        return longestStreak;
 
     }
 }
